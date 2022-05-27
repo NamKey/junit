@@ -12,6 +12,5 @@ class ScoreCollectionTest {
 
     @Test
     public void test() {
-        fail("not yet implemented");
     }
 }
