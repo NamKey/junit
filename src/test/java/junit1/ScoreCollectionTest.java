@@ -36,7 +36,7 @@ class ScoreCollectionTest {
         ScoreCollection collection = new ScoreCollection();
         collection.add(() -> 5);
         collection.add(() -> 4);
-
+        
         // when
         int actualResult = collection.arithmeticMean();
 
